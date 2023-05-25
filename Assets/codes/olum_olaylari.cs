@@ -62,10 +62,4 @@ public class olum_olaylari : MonoBehaviour
         kaydedildi = false;
        
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
