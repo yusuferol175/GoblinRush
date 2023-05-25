@@ -39,10 +39,7 @@ public class olusan : MonoBehaviour
         }
 
     }
-    void Start()
-    {
-        
-    }
+
     public static float atici_pos;
     public static float sovalye_pos;
 
