@@ -105,10 +105,4 @@ public class sovalye_sc : MonoBehaviour
         
         can_bar.GetComponent<bar_olay_sc>().kalp_durum();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
